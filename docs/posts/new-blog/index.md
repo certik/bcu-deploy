@@ -12,4 +12,4 @@
 This is my new blog, served at my own domain
 [https://blog.certik.us/](https://blog.certik.us/).
 My old blog at
-[http://ondrejcertik.blogspot.com/](http://ondrejcertik.blogspot.com/) will stay there.
+[https://ondrejcertik.blogspot.com/](https://ondrejcertik.blogspot.com/) will stay there.
