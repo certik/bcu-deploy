@@ -1,0 +1,4 @@
+Sitemap: https://blog.certik.us/sitemapindex.xml
+
+User-Agent: *
+Host: blog.certik.us
