@@ -865,8 +865,9 @@ ul.pager li a {
 }
 
 .blog-header-logo {
-  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-family: Sans-Serif;
   font-size: 2.25rem;
+  font-weight: bold;
 }
 
 .blog-header-logo:hover {
@@ -874,7 +875,12 @@ ul.pager li a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-family: Sans-Serif;
+  font-weight: bold;
+}
+
+div.e-content.entry-content p {
+  font-family: Serif;
 }
 
 .display-4 {
