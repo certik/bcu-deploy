@@ -20,6 +20,14 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 
+h3 {
+  font-size: 1.40rem;
+}
+
+h4 {
+  font-size: 1.0rem;
+}
+
 div.e-content.entry-content p, li {
   font-family: Serif;
 }
