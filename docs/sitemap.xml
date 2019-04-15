@@ -1,28 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
- <url>
-  <loc>https://blog.certik.us/</loc>
-  <lastmod>2019-04-14T14:25:00Z</lastmod>
- </url>
- <url>
-  <loc>https://blog.certik.us/2019/</loc>
-  <lastmod>2019-04-14T14:25:00Z</lastmod>
- </url>
- <url>
-  <loc>https://blog.certik.us/archive.html</loc>
-  <lastmod>2019-04-14T14:25:00Z</lastmod>
- </url>
- <url>
-  <loc>https://blog.certik.us/categories/</loc>
-  <lastmod>2019-04-14T14:25:00Z</lastmod>
- </url>
- <url>
-  <loc>https://blog.certik.us/posts/new-blog/</loc>
-  <lastmod>2019-04-14T14:25:00Z</lastmod>
- </url>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog.certik.us/post/new-blog/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.certik.us/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.certik.us/post/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.certik.us/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.certik.us/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
 </urlset>
